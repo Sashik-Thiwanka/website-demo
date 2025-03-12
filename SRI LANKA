@@ -1,0 +1,37 @@
+<html>
+<head>
+<title> SRI LANKA DETAILS </title>
+</head>
+<body>
+<h2><center><font face="arial" color="blue"> SRI LANKA </font></center></h2>
+<marquee><img src="https://t4.ftcdn.net/jpg/03/29/27/61/240_F_329276183_MyJTBVF9ztvc9X2p48Nc4EmphV9IdOVp.jpg" width="400" height="475" border="3" align="middle" alt="map"></marquee>
+ <p><h2>  Sri Lanka is an island located off the southern coast of India. Sri Lanka is  
+surrounded by the Indian Ocean. The geography of Sri Lanka includes 
+coastal plains in the north and hills and mountains in the interior. The 
+government system is a republic.  The chief of state and head of government  
+is the President.</h2> </p>
+
+<table border="1"width ="500"  height ="300" cellpadding="5" cellspacing="5" bordercolor="green" bgcolor="yellow">
+<caption> Principal Forms of Land Use </caption>
+<tr>
+      <th><font size="30"> USE </font></th>
+      <th><font size="30"> EXTENT </font></th>    </tr>
+<tr>
+      <td><font size="10"> Paddy </font></td>
+      <td><font size="10"> 500000 </font></td>    </tr>
+<tr>
+      <td><font size="10"> Tea </font></td>
+      <td><font size="10"> 190000 </font></td>    </tr>
+<tr>
+      <td><font size="10"> Rubber </font></td>
+      <td><font size="10"> 163000 </font></td>    </tr>
+</table>
+
+<ul type = ''disc''>
+       <li><h2> Sinhala </h2></li>
+       <li><h2> tamil </h2></li>
+       <li><h2> Muslim </h2></li>
+       <li><h2> Burgur </h2></li>
+</ul>
+</body>
+</html>
